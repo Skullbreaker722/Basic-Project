@@ -17,3 +17,10 @@ def add(a,b):
 
 
 add(10,20)
+
+
+def sub(a,b):
+   diff =a-b
+   print("Difference:",diff)
+
+sub(20,10)
